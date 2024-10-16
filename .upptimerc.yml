@@ -10,7 +10,7 @@ sites:
 
 status-website:
   cname: ajyqfiyyqr.cleeksy.com
-  logoUrl: https://cleeksy-staging-static-web-app.s3.ap-southeast-1.amazonaws.com/assets/images/logo.png
+  logoUrl: https://app.cleeksy.com/assets/images/favicon.svg
   name: Cleeksy
   navbar:
     - title: Status
