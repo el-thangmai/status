@@ -4,6 +4,9 @@ repo: status
 sites:
   - name: Cleeksy Platform
     url: https://api.cleeksy.com/ready
+    expectedStatusCodes:
+      - 200
+      - 403
 
 status-website:
   cname: ajyqfiyyqr.cleeksy.com
