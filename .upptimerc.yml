@@ -1,0 +1,16 @@
+owner: Cleeksy-JSC
+repo: cleeksy-status
+
+sites:
+  - name: Cleeksy Platform
+    url: https://api.cleeksy.com/ready
+
+status-website:
+  cname: ajyqfiyyqr.cleeksy.com
+  logoUrl: https://cleeksy-staging-static-web-app.s3.ap-southeast-1.amazonaws.com/assets/images/logo.png
+  name: Cleeksy
+  navbar:
+    - title: Status
+      href: /
+    - title: Homepage
+      href: https://cleeksy.com
