@@ -4,17 +4,19 @@
     "url": "https://api.cleeksy.com/ready",
     "icon": "https://icons.duckduckgo.com/ip3/api.cleeksy.com.ico",
     "slug": "cleeksy-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 315,
-    "timeDay": 315,
-    "timeWeek": 315,
-    "timeMonth": 315,
-    "timeYear": 315,
-    "dailyMinutesDown": {}
+    "time": 619,
+    "timeDay": 619,
+    "timeWeek": 619,
+    "timeMonth": 619,
+    "timeYear": 619,
+    "dailyMinutesDown": {
+      "2024-10-16": 0
+    }
   }
 ]
