@@ -5,18 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.cleeksy.com.ico",
     "slug": "cleeksy-platform",
     "status": "up",
-    "uptime": "99.40%",
-    "uptimeDay": "98.93%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.40%",
-    "uptimeYear": "99.40%",
-    "time": 718,
-    "timeDay": 718,
-    "timeWeek": 718,
-    "timeMonth": 718,
-    "timeYear": 718,
-    "dailyMinutesDown": {
-      "2024-10-16": 15
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 758,
+    "timeDay": 758,
+    "timeWeek": 758,
+    "timeMonth": 758,
+    "timeYear": 758,
+    "dailyMinutesDown": {}
   }
 ]
