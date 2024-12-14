@@ -1,7 +1,7 @@
 url: https://api.cleeksy.com/ready
 status: up
-code: 200
-responseTime: 908
-lastUpdated: 2024-12-13T23:13:54.267Z
+code: 403
+responseTime: 1026
+lastUpdated: 2024-12-14T23:12:59.569Z
 startTime: 2024-10-14T09:13:33.737Z
 generator: Upptime <https://github.com/upptime/upptime>
